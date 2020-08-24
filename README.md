@@ -1,12 +1,5 @@
 ### ![image](https://github.com/kaflenitish/kaflenitish/blob/image/kaflenitish.png)
 
-## 
-- 🔭 I’m currently working on a Personal Projects!
-- 🌱 I’m currently learning everything about software development 🤣
-- 👯 I’m looking to collaborate with other student developers!
-- 🥅 2020 Goals: Contribute more to Open Source projects and create something fun!
-- ⚡ Fun fact: I love to travel. 
-
 ### Connect with me:
 
 [<img align="left" alt="nitkafle | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
