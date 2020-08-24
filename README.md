@@ -1,4 +1,4 @@
-### Hi there, I'm Nitish - Computer Science Junior at Wilmington University and an aspiring Software Engineer 👋
+### ![image](kaflenitish.png)
 
 ## 
 - 🔭 I’m currently working on a Personal Projects!
