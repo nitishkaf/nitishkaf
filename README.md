@@ -1,4 +1,4 @@
-### ![image](kaflenitish.png)
+### ![image](https://github.com/kaflenitish/kaflenitish/blob/image/kaflenitish.png)
 
 ## 
 - 🔭 I’m currently working on a Personal Projects!
