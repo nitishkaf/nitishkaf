@@ -1,3 +1,4 @@
+<h2> Hi! I'm Nitish! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 ### ![image](https://github.com/kaflenitish/kaflenitish/blob/image/kaflenitish.png)
 
 ### Connect with me:
