@@ -33,4 +33,4 @@
 
 [twitter]: https://twitter.com/nitkafle
 [instagram]: https://instagram.com/kaflenitish8
-[linkedin]: https://linkedin.com/in/nitish-kafle
+[linkedin]: https://linkedin.com/in/nitishkafle
