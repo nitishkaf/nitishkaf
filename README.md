@@ -19,7 +19,7 @@ class BioViewController: UIViewController{
 	    	"- 👯 I’m looking to collaborate on": "Python, Swift and AWS related projects",
 	    	"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
 	    	"- 💬 Ask me about":                  "Python, SQL, Swift, Software Design & Architecture",
-	    	"- 📫 How to reach me:":              "https://github.com/kaflenitish#you-can-reach-me-at-alien",
+	    	"- 📫 How to reach me:":              "https://github.com/kaflenitish"
             
         }
     }
