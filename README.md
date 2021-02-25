@@ -1,36 +1,58 @@
-### Hi! I'm Nitish! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-### Connect with me:
+# <h1 align="center">Nitish Kafle</h1>
 
-[<img align="left" alt="nitkafle | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="nitishkafle | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="kaflenitish8 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<h2 align="center">About me</h2>
 
-<br />
+```swift
+import Bio
 
-### Languages and Tools:
+class BioViewController: UIViewController{
 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br />
-<br />
+    override func viewDidLoad(){
+        super.viewDidLoad()
+        }
+    
+    func getBio() Bio {
+        return Bio{
+            "- ⚡ Quick bio:":                   "Software Engineer | iOS Developer",
+	    	"- 🔭 I’m currently studying":       "Computer Science at Wilmington University",
+	    	"- 🌱 I’m currently learning":        "Swift, Python, mongoDB, AWS --- Sharpening my Software Development skills (Personal goal)",
+	    	"- 👯 I’m looking to collaborate on": "Python, Swift and AWS related projects",
+	    	"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
+	    	"- 💬 Ask me about":                  "Python, SQL, Swift, Software Design & Architecture",
+	    	"- 📫 How to reach me:":              "https://github.com/kaflenitish#you-can-reach-me-at-alien",
+            
+        }
+    }
+
+```
+
+<h2 align="center">Connect with me at: </h2>
+
+<p align="center">
+  <a href="https://dev.to/kaflenitish">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Nitish Kafle's DEV Profile" height="30" width="30">
+  </a>
+
+  <a href="https://www.linkedin.com/in/nitishkafle/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Nitish Kafle's LinkedIn Profile" height="30" width="30">
+  </a>
+
+
+<h2 align="center">Github stats :bar_chart:</h2>
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{kaflenitish}/count.svg" alt="kaflenitish :: Visitor's Count" /></p>
+
+<h4 align="center">Top langs :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaflenitish&langs_count=10&theme=tokyonight&layout=compact" alt="kaflenitish :: Top Langs" /></p>
+
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kaflenitish&show_icons=true&theme=synthwave" alt="kaflenitish :: Profile Stats" /></p>
+
 
 ---
 
-<img align="left" alt="kaflenitish's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kaflenitish&show_icons=true&hide_border=true" />
-
-[twitter]: https://twitter.com/nitkafle
-[instagram]: https://instagram.com/kaflenitish8
-[linkedin]: https://linkedin.com/in/nitishkafle
+⭐️ From [@kaflenitish](https://github.com/kaflenitish)
