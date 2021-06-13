@@ -2,27 +2,12 @@
 
 <h2 align="center">About me</h2>
 
-```swift
-import Bio
+```
+📍Nepal 🇳🇵 , currently Baltimore, MD 🇺🇸
+📚 Computer Science @ Wilmington University
+🙂 Aspiring Android Developer
+🪂 Love to travel, explore and take on new adventures
 
-class BioViewController: UIViewController{
-
-    override func viewDidLoad(){
-        super.viewDidLoad()
-        }
-    
-    func getBio() Bio {
-        return Bio{
-            "- ⚡ Quick bio:":                   "Software Engineer | iOS Developer",
-	    	"- 🔭 I’m currently studying":       "Computer Science at Wilmington University",
-	    	"- 🌱 I’m currently learning":        "Swift, Python, mongoDB, AWS --- Sharpening my Software Development skills (Personal goal)",
-	    	"- 👯 I’m looking to collaborate on": "Python, Swift and AWS related projects",
-	    	"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-	    	"- 💬 Ask me about":                  "Python, SQL, Swift, Software Design & Architecture",
-	    	"- 📫 How to reach me:":              "https://github.com/kaflenitish"
-            
-        }
-    }
 
 ```
 
