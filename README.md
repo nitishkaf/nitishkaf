@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 200" />
+<img src="banner-nitish.png" align="center" style="width: 200" />
 </div>  
   
 
@@ -93,10 +93,6 @@ I'm looking for opportunities to expand my understanding of the impact of techno
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kaflenitish&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<div align="center"><img src="[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=31fxhw2ake4nb3r32kjzfgo2grca&cover_image=true&theme=default" /></div>  
 
 <br/>  
 
