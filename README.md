@@ -11,7 +11,7 @@ I'm looking for opportunities to expand my understanding of the impact of techno
 - 🔭 I’m currently working on [nitishkafle.com](https://nitishkafle.com)  
   
 
-- 🌱 I’m currently learning Android Development and Java  
+- 🌱 I’m currently learning Full Stack Development (MERN)
   
 
 - ❓ Ask me about anything related to Android Development and related technologies  
