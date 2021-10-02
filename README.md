@@ -14,7 +14,7 @@ I'm looking for opportunities to expand my understanding of the impact of techno
 - 🌱 I’m currently learning Full Stack Development (MERN)
   
 
-- ❓ Ask me about anything related to Android Development and related technologies  
+- ❓ Ask me about anything related to software engineering and related technologies  
   
 
 - ⚡ Fun fact: I love 🍕 & travelling to new places.  
