@@ -92,7 +92,7 @@ I'm looking for opportunities to expand my understanding of the impact of techno
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kaflenitish&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=developernit&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
