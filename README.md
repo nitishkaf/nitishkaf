@@ -8,10 +8,6 @@
 
 <p align="center"> <a href="https://twitter.com/developernit" target="blank"><img src="https://img.shields.io/twitter/follow/developernit?logo=twitter&style=for-the-badge" alt="developernit" /></a> </p>
 
-- 💬 Ask me about **react**
-
-- 📫 How to reach me **nitish.kafle045@gmail.com**
-
 
 #### Languages and Tools
 
