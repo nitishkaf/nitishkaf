@@ -3,7 +3,7 @@
 
 
 
-<p align="center"> <a href="https://twitter.com/developernit" target="blank"><img src="https://img.shields.io/twitter/follow/developernit?logo=twitter&style=for-the-badge" alt="developernit" /></a> </p>
+<p align="center"> <a href="https://twitter.com/nitishkaf" target="blank"><img src="https://img.shields.io/twitter/follow/nitishkaf?logo=twitter&style=for-the-badge" alt="nitishkaf" /></a> </p>
 
 
 #### Languages and Tools
